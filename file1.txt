@@ -16,3 +16,4 @@ push done
 pull for remote
 delete branch
 switch to master and merge
+login modify
