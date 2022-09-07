@@ -13,3 +13,4 @@ adding and commiting
 push the work to reomote
 pulling
 completed node module
+delete branch
