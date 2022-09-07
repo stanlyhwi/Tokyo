@@ -10,3 +10,4 @@ changing the credentials
 created new file
 adding some text
 adding and commiting 
+push the work to reomote
