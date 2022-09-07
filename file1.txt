@@ -14,3 +14,4 @@ react
 some files edited
 push done
 pull for remote
+delete branch
