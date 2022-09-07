@@ -13,3 +13,4 @@ day 7
 react
 some files edited
 push done
+pull for remote
